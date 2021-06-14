@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Book.h
+LinkedList.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/LinkedList.h
+Copies.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Copies.h
+bits/stdc++.h
+-
+ostream
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Copies.h
+bits/stdc++.h
+-
+ostream
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Library.h
+LinkedList.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/LinkedList.h
+Book.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Book.h
+Copies.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Copies.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/LinkedList.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/main.cpp
+iostream
+-
+Library.h
+E:/Education/FCAI-CU/Second Level/Semester 2/DS/CS214-20180435-20180436-20180263-20180379/Library.h
+
